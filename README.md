@@ -1,7 +1,7 @@
 CAMBIO PIN IN VERCEL:
 
 Vai su Vercel
-- Seleziona il progetto [cazn]
+- Seleziona il progetto [canalisportivi]
   → clicca su [Find] in basso e poi su [Environment Variables]
 Scorri fino a [WEBAPP_PIN]
   → seleziona i 3 puntini (...) e poi [Edit] 
